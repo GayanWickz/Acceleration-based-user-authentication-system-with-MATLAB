@@ -1,0 +1,5 @@
+Running the Project:
+
+    1.  Open MATLAB and navigate to the "Code Runner" folder.
+    2.  In the MATLAB command window, run the "FDTD_train_test_optimization.m". {optimization,train,testing included}
+    3. The code will automatically load the training and testing templates for each user, train the model, and then test it on the provided data.
